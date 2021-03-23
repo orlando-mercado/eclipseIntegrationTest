@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-
+//Simple Calculator app
 public class Calculator implements ActionListener {
 	JFrame frame;
 	JTextField textfield;
